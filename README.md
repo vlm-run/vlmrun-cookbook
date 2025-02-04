@@ -1,43 +1,64 @@
-# 🧑‍🍳 VLM-1 Cookbook
+<div align="center">
+<p align="center" style="width: 100%;">
+    <img src="https://raw.githubusercontent.com/vlm-run/.github/refs/heads/main/profile/assets/vlm-black.svg" alt="VLM Run Logo" width="80" style="margin-bottom: -5px; color: #2e3138; vertical-align: middle; padding-right: 5px;"><br>
+</p>
+<h2>VLM Run Cookbook</h2>
+<p align="center">
+<a href="https://vlm.run"><b>Website</b></a> | <a href="https://docs.vlm.run/"><b>Docs</b></a> | <a href="https://docs.vlm.run/blog"><b>Blog</b></a> | <a href="https://discord.gg/CCY8cYNC"><b>Discord</b></a>
+</p>
+<p align="center">
+<a href="https://discord.gg/4jgyECY4rq"><img alt="Discord" src="https://img.shields.io/badge/discord-chat-purple?color=%235765F2&label=discord&logo=discord"></a>
+<a href="https://twitter.com/vlmrun"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/vlmrun.svg?style=social&logo=twitter"></a>
+</p>
+<br>
+</div>
 
-A collection of examples built on top of **VLM-1**, an API for **structured visual understanding** of images, videos and documents.
-
-
-## Why VLM-1?
-- 📦  **Structured Outputs**:  VLM-1 provides structured predictions (e.g. JSON) for your images/videos/documents, allowing you to easily automate visual tasks with strongly-typed and validated outputs.
-- 🎯  **Fine-tuning**: VLM-1 can be fine-tuned for specific visual domains, allowing you to achieve the desired accuracy for your use-case with enterprise-level SLAs.
-- 💸  **Scalable**: VLM-1 is optimized to be cost-effective for high data volumes, enabling you to scale your visual automation workflows without being rate-limted or incurring large bills.
-- 🛡️  **Private Deployments**: VLM-1 can be deployed on-prem or in a private cloud, allowing you to keep your data private and secure, and work with privacy-sensitive material.
-
-## Signup for Early Access
-
-If you're interested in using **VLM-1** for your structured visual understanding workflows, please sign up for early access [here](https://airtable.com/appjX6543bChjNaEN/pagnciKtynSt4rOT9/form). We're currently working with a select group of partners to fine-tune the API and would love to hear from you if you have a specific use case in mind.
-
-
-## Motivating Examples
-
-| **Name** | **Colab / Notebook** | **Date** | **Domain** | **Author** |
-|:---:|:---:|:---:|:---:|:---:|
-| Financial Presentations | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q6CCXzKlEK8nFkvl_z9m0Y1LUL4KwYJ4#scrollTo=YPk5J7YXPxMR)  | 08-13-2024 | `document.presentation` | [@spillai](https://github.com/spillai) |
-| Financial TV News | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11ELHShm9Buw_StjF9zxAGG9VToDm0gI2)  | 08-14-2024 | `tv.news` | [@spillai](https://github.com/spillai) |
-| Hybrid Document Search with ChromaDB | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lvHVFDWb6HmeXSypqZm8yY87wdk0_u8f)  | 04-04-2024 | `document.presentation` | [@outtanames](https://github.com/outtanames) |
-| Hybrid Document Search with MongoDB | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xsx3RxX1tmOQFJBQoX6ilRtj5prUhgtS)  | 05-13-2024 | `document.presentation` | [@spillai](https://github.com/spillai) |
+Welcome to **VLM Run Cookbook**, a comprehensive collection of examples and notebooks demonstrating the power of structured visual understanding using the VLM Run platform. This repository hosts practical examples and tutorials for extracting structured data from images, videos, and documents using Vision Language Models (VLMs).
 
 
-## What is Structured Visual Understanding?
+### 💡 Why Use This Cookbook?
 
-VLMs like GPT4-Vision and Claude Vision support question answering over arbitrary visual inputs. In practice however, textual answers are not an ideal interface for many workflows, especially for automation. Instead, VLM-1 defines its API in
-terms of fixed types for different visual inputs like financial documents, cable news and sporting events. This schema can be as simple
-as a list of string values (see NFL example below) or more complicated with nested types. Let's look at an example for presentations (e.g. `document.presentation`) below:
+- 📚 **Practical Examples**: A comprehensive collection of Colab notebooks demonstrating real-world applications of VLM Run.
+- 🔋 **Ready-to-Use**: Each example comes with complete code and documentation, making it easy to adapt for your use case.
+- 🎯 **Domain-Specific**: Examples cover various domains from financial documents to TV news analysis.
+- 💸 **Cost-Effective**: Learn how to optimize your VLM usage for high-volume production scenarios.
+- 🛡️ **Enterprise-Ready**: Examples showcase integration with databases and enterprise systems.
 
-**Example Input Image**
+### 🚀 Getting Started
+
+To get started with VLM Run and try out these examples:
+
+1. Sign up for early access [here](https://airtable.com/appjX6543bChjNaEN/pagnciKtynSt4rOT9/form)
+2. Join our [Discord community](https://discord.gg/CCY8cYNC) for support
+3. Open any of our Colab notebooks below to start experimenting
+
+
+### 📖 Example Notebooks
+
+Our collection of Colab notebooks demonstrates various use cases and integrations:
+
+#### Document Analysis
+| **Name** | **Colab** | **Domain** | **Author** | **Last Updated** |
+|:---|:---:|:---:|:---:|:---:|
+| Financial Presentations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q6CCXzKlEK8nFkvl_z9m0Y1LUL4KwYJ4#scrollTo=YPk5J7YXPxMR) | `document.presentation` | [@spillai](https://github.com/spillai) | 08-13-2024 |
+| Hybrid Document Search with ChromaDB | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lvHVFDWb6HmeXSypqZm8yY87wdk0_u8f) | `document.presentation` | [@outtanames](https://github.com/outtanames) | 04-04-2024 |
+| Hybrid Document Search with MongoDB | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xsx3RxX1tmOQFJBQoX6ilRtj5prUhgtS) | `document.presentation` | [@spillai](https://github.com/spillai) | 05-13-2024 |
+
+#### Media Analysis
+| **Name** | **Colab** | **Domain** | **Author** | **Last Updated** |
+|:---|:---:|:---:|:---:|:---:|
+| Financial TV News | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11ELHShm9Buw_StjF9zxAGG9VToDm0gI2) | `tv.news` | [@spillai](https://github.com/spillai) | 08-14-2024 |
+
+
+### 💡 Understanding Structured Visual Outputs
+
+Vision Language Models (VLMs) like GPT4-Vision and Claude Vision excel at question-answering over visual inputs. However, for automation and integration, we need structured, strongly-typed outputs. VLM Run provides this through predefined schemas for different visual domains. Let's look at an example:
+
+#### Example: Financial Presentation Analysis
 
 <img src="./assets/example-slide.jpeg" alt="drawing" width="600">
 
-
-<br>
-
-**Example JSON Output**
+#### Structured JSON Output
 ```json
 {
   "description": "The slide presents a 'Differentiated Operating Model' for Selective Insurance, detailing their unique field model, franchise value, and distribution network. It also includes a pie chart showing the 2023 Net Premiums Written, with a total of $4 Billion distributed across different lines of insurance.",
@@ -98,12 +119,19 @@ Let's unpack some of the keys in the JSON output above:
 As you can see from the JSON output above, the structured output is designed to be human readable and parseable (with [Pydantic](https://github.com/pydantic/pydantic) / strongly-typed data-structures) for downstream workflow automation. The output is also designed to be easily integrated with traditional databases like Postgres, MongoDB, or even tabular databases like Airtable, where the columns can be automatically mapped to elements in the schema.
 
 
-## DB Integration
+### 🔌 Database Integration Examples
 
-Structured outputs from unstructured data are a natural fit for traditional databases - with **VLM-1**, we can now extract structured content from images, videos, documents etc and index them alongside the raw data in a traditional DB. This allows us to go beyond simple embeddings and support hybrid search and retrieval flows that combine structured and unstructured data. If you're interested in integrating **VLM-1** with a DB, we're working on a number of integrations and would love to hear from you on [Discord](https://discord.gg/a6suHC9B5E) if you have an interesting use case you would like to see supported!
+The structured outputs from VLM Run are designed to work seamlessly with traditional databases. Our examples demonstrate:
 
+- Storing and indexing structured visual data alongside raw data
+- Going beyond simple embeddings with hybrid search capabilities
+- Combining structured and unstructured data for advanced retrieval
+- Real-world integration patterns with popular databases
 
-## 🔗  Quick Links
+Check out our database integration examples in the notebooks above, and join our [Discord](https://discord.gg/CCY8cYNC) to discuss your specific use case!
 
-* 💬 Send us an email at [support@autonomi.ai](mailto:support@autonomi.ai) or join our [`#vlm-playground` Discord channel](https://discord.gg/a6suHC9B5E) for help.
-* 📣 Follow us on [Twitter](https://twitter.com/autonomi\_ai), and [LinkedIn](https://www.linkedin.com/company/autonomi-ai) to keep up-to-date on our products.
+### 🔗 Quick Links
+
+* 💬 Send us an email at [support@vlm.run](mailto:support@vlm.run) or join our [Discord](https://discord.gg/CCY8cYNC) for help
+* 📣 Follow us on [Twitter](https://twitter.com/vlmrun) and [LinkedIn](https://www.linkedin.com/company/vlm-run) to keep up-to-date on our products
+* 📚 Check out our [Documentation](https://docs.vlm.run/) for detailed guides and API reference
