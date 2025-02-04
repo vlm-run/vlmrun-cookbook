@@ -4,7 +4,7 @@
 </p>
 <h2>VLM Run Cookbook</h2>
 <p align="center">
-<a href="https://vlm.run"><b>Website</b></a> | <a href="https://docs.vlm.run/"><b>Docs</b></a> | <a href="https://docs.vlm.run/blog"><b>Blog</b></a> | <a href="https://discord.gg/4jgyECY4rq"><b>Discord</b></a>
+<a href="https://vlm.run"><b>Website</b></a> | <a href="https://docs.vlm.run/"><b>Docs</b></a> | <a href="https://vlm.run/blog"><b>Blog</b></a> | <a href="https://discord.gg/4jgyECY4rq"><b>Discord</b></a>
 </p>
 <p align="center">
 <a href="https://discord.gg/4jgyECY4rq"><img alt="Discord" src="https://img.shields.io/badge/discord-chat-purple?color=%235765F2&label=discord&logo=discord"></a>
@@ -28,15 +28,9 @@ Welcome to **VLM Run Cookbook**, a comprehensive collection of examples and note
 
 To get started with VLM Run and try out these examples:
 
-First, install the VLM Run Python package:
 ```bash
 pip install vlmrun[all]
 ```
-
-1. Sign up for early access [here](https://airtable.com/appjX6543bChjNaEN/pagnciKtynSt4rOT9/form)
-2. Join our [Discord community](https://discord.gg/4jgyECY4rq) for support
-3. Open any of our Colab notebooks below to start experimenting
-
 
 ### 📖 Example Notebooks
 
@@ -47,21 +41,6 @@ Our collection of Colab notebooks demonstrates various use cases and integration
 | Financial TV News | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11ELHShm9Buw_StjF9zxAGG9VToDm0gI2) | `tv.news` | [@spillai](https://github.com/spillai) | 08-14-2024 |
 | Hybrid Document Search with ChromaDB | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lvHVFDWb6HmeXSypqZm8yY87wdk0_u8f) | `document.presentation` | [@outtanames](https://github.com/outtanames) | 04-04-2024 |
 | Hybrid Document Search with MongoDB | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xsx3RxX1tmOQFJBQoX6ilRtj5prUhgtS) | `document.presentation` | [@spillai](https://github.com/spillai) | 05-13-2024 |
-
-
-
-
-
-### 🔌 Database Integration Examples
-
-The structured outputs from VLM Run are designed to work seamlessly with traditional databases. Our examples demonstrate:
-
-- Storing and indexing structured visual data alongside raw data
-- Going beyond simple embeddings with hybrid search capabilities
-- Combining structured and unstructured data for advanced retrieval
-- Real-world integration patterns with popular databases
-
-Check out our database integration examples in the notebooks above, and join our [Discord](https://discord.gg/4jgyECY4rq) to discuss your specific use case!
 
 ### 🔗 Quick Links
 
