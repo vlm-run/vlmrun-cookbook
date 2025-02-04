@@ -4,7 +4,7 @@
 </p>
 <h2>VLM Run Cookbook</h2>
 <p align="center">
-<a href="https://vlm.run"><b>Website</b></a> | <a href="https://docs.vlm.run/"><b>Docs</b></a> | <a href="https://vlm.run/blog"><b>Blog</b></a> | <a href="https://discord.gg/4jgyECY4rq"><b>Discord</b></a>
+<a href="https://vlm.run"><b>Website</b></a> | <a href="https://app.vlm.run/"><b>Platform</b></a> | <a href="https://docs.vlm.run/"><b>Docs</b></a> | <a href="https://vlm.run/blog"><b>Blog</b></a> | <a href="https://discord.gg/4jgyECY4rq"><b>Discord</b></a>
 </p>
 <p align="center">
 <a href="https://discord.gg/4jgyECY4rq"><img alt="Discord" src="https://img.shields.io/badge/discord-chat-purple?color=%235765F2&label=discord&logo=discord"></a>
@@ -13,7 +13,7 @@
 <br>
 </div>
 
-Welcome to **VLM Run Cookbook**, a comprehensive collection of examples and notebooks demonstrating the power of structured visual understanding using the VLM Run platform. This repository hosts practical examples and tutorials for extracting structured data from images, videos, and documents using Vision Language Models (VLMs).
+Welcome to **[VLM Run](https://vlm.run) Cookbook**, a comprehensive collection of examples and notebooks demonstrating the power of structured visual understanding using the [VLM Run Platform](https://app.vlm.run). This repository hosts practical examples and tutorials for extracting structured data from images, videos, and documents using Vision Language Models (VLMs).
 
 
 ### 💡 Why Use This Cookbook?
