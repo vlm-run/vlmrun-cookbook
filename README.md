@@ -40,7 +40,7 @@ pip install "vlmrun[all]"
 Our collection of Colab notebooks demonstrates various use cases and integrations:
 | Name | Colab | Last Updated | Domain |
 |:---|:---:|:---:|:---:|
-| financial-presentations | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N16Vy2jtMnXbD_WJYkG312AnwoTdXzmP)  | 02-04-2025 | `document.presentation` |
+| financial-presentations | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15_iRDucKj2I33p3m5X3ULdXby_DHWgjS)  | 02-04-2025 | `document.presentation` |
 
 
 ### 🔗 Quick Links
