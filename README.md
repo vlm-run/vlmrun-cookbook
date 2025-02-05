@@ -17,6 +17,7 @@ Welcome to **[VLM Run](https://vlm.run) Cookbook**, a comprehensive collection o
 
 
 ### 💡 Why Use This Cookbook?
+---
 
 - 📚 **Practical Examples**: A comprehensive collection of Colab notebooks demonstrating real-world applications of VLM Run.
 - 🔋 **Ready-to-Use**: Each example comes with complete code and documentation, making it easy to adapt for your use case.
@@ -25,24 +26,25 @@ Welcome to **[VLM Run](https://vlm.run) Cookbook**, a comprehensive collection o
 - 🛡️ **Enterprise-Ready**: Examples showcase integration with databases and enterprise systems.
 
 ### 🚀 Getting Started
+---
 
 To get started with VLM Run and try out these examples:
 
 ```bash
-pip install vlmrun[all]
+pip install "vlmrun[all]"
 ```
 
-### 📖 Example Notebooks
+### 📖 Cookbook Notebooks
+---
 
 Our collection of Colab notebooks demonstrates various use cases and integrations:
-| **Name** | **Colab** | **Domain** | **Author** | **Last Updated** |
-|:---|:---:|:---:|:---:|:---:|
-| Financial Presentations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q6CCXzKlEK8nFkvl_z9m0Y1LUL4KwYJ4#scrollTo=YPk5J7YXPxMR) | `document.presentation` | [@spillai](https://github.com/spillai) | 08-13-2024 |
-| Financial TV News | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11ELHShm9Buw_StjF9zxAGG9VToDm0gI2) | `tv.news` | [@spillai](https://github.com/spillai) | 08-14-2024 |
-| Hybrid Document Search with ChromaDB | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lvHVFDWb6HmeXSypqZm8yY87wdk0_u8f) | `document.presentation` | [@outtanames](https://github.com/outtanames) | 04-04-2024 |
-| Hybrid Document Search with MongoDB | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xsx3RxX1tmOQFJBQoX6ilRtj5prUhgtS) | `document.presentation` | [@spillai](https://github.com/spillai) | 05-13-2024 |
+| Name | Colab | Last Updated | Domain |
+|:---|:---:|:---:|:---:|
+| financial-presentations | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N16Vy2jtMnXbD_WJYkG312AnwoTdXzmP)  | 02-04-2025 | `document.presentation` |
+
 
 ### 🔗 Quick Links
+---
 
 * 💬 Send us an email at [support@vlm.run](mailto:support@vlm.run) or join our [Discord](https://discord.gg/4jgyECY4rq) for help
 * 📣 Follow us on [Twitter](https://twitter.com/vlmrun) and [LinkedIn](https://www.linkedin.com/company/vlm-run) to keep up-to-date on our products

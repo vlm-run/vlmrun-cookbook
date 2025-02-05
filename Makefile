@@ -1,13 +1,4 @@
-.PHONY: lint mkdocs-serve mkdocs-build mkdocs-clean
+.PHONY: lint
 
 lint:
 	pre-commit run --all-files # Uses pyproject.toml
-
-mkdocs-clean:
-	rm site/
-
-mkdocs-serve:
-	mkdocs serve
-
-mkdocs-build:
-	mkdocs build
