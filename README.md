@@ -4,7 +4,7 @@
 </p>
 <h2>VLM Run Cookbook</h2>
 <p align="center">
-<a href="https://vlm.run"><b>Website</b></a> | <a href="https://app.vlm.run/"><b>Platform</b></a> | <a href="https://docs.vlm.run/"><b>Docs</b></a> | <a href="https://vlm.run/blog"><b>Blog</b></a> | <a href="https://discord.gg/4jgyECY4rq"><b>Discord</b></a>
+<a href="https://vlm.run"><b>Website</b></a> | <a href="https://app.vlm.run/"><b>Platform</b></a> | <a href="https://github.com/vlm-run/vlmrun-hub"><b>Hub</b></a> | <a href="https://docs.vlm.run/"><b>Docs</b></a> | <a href="https://vlm.run/blog"><b>Blog</b></a> | <a href="https://discord.gg/4jgyECY4rq"><b>Discord</b></a>
 </p>
 <p align="center">
 <a href="https://discord.gg/4jgyECY4rq"><img alt="Discord" src="https://img.shields.io/badge/discord-chat-purple?color=%235765F2&label=discord&logo=discord"></a>
@@ -22,25 +22,17 @@ Welcome to **[VLM Run](https://vlm.run) Cookbook**, a comprehensive collection o
 - 📚 **Practical Examples**: A comprehensive collection of Colab notebooks demonstrating real-world applications of VLM Run.
 - 🔋 **Ready-to-Use**: Each example comes with complete code and documentation, making it easy to adapt for your use case.
 - 🎯 **Domain-Specific**: Examples cover various domains from financial documents to TV news analysis.
-- 💸 **Cost-Effective**: Learn how to optimize your VLM usage for high-volume production scenarios.
-- 🛡️ **Enterprise-Ready**: Examples showcase integration with databases and enterprise systems.
-
-### 🚀 Getting Started
----
-
-To get started with VLM Run and try out these examples:
-
-```bash
-pip install vlmrun vlmrun-hub jupyter
-```
 
 ### 📖 Cookbook Notebooks
 ---
 
 Our collection of Colab notebooks demonstrates various use cases and integrations:
-| Name | Colab | Last Updated | Domain |
-|:---|:---:|:---:|:---:|
-| financial-presentations | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15_iRDucKj2I33p3m5X3ULdXby_DHWgjS)  | 02-04-2025 | `document.presentation` |
+| Name | Colab | Last Updated |
+|:---|:---:|:---:|
+| [VLM Run Quickstart](./notebooks/00_quickstart.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/00_quickstart.ipynb)  | 02-08-2025 |
+| [Schema Showcase](./notebooks/01_schema_showcase.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)  | 02-08-2025 |
+| [US Drivers License](./notebooks/02_us_drivers_license.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/02_us_drivers_license.ipynb)  | 02-08-2025 |
+| [Parsing Financial Presentations](https://colab.research.google.com/drive/15_iRDucKj2I33p3m5X3ULdXby_DHWgjS) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15_iRDucKj2I33p3m5X3ULdXby_DHWgjS)  | 02-04-2025 |
 
 
 ### 🔗 Quick Links
