@@ -31,7 +31,7 @@ Welcome to **[VLM Run](https://vlm.run) Cookbook**, a comprehensive collection o
 To get started with VLM Run and try out these examples:
 
 ```bash
-pip install "vlmrun[all]"
+pip install vlmrun vlmrun-hub jupyter
 ```
 
 ### 📖 Cookbook Notebooks
