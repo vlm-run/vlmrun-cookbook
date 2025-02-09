@@ -31,7 +31,7 @@ Our collection of Colab notebooks demonstrates various use cases and integration
 |:---|:---:|:---:|
 | [VLM Run Quickstart](./notebooks/00_quickstart.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/00_quickstart.ipynb)  | 02-08-2025 |
 | [Schema Showcase](./notebooks/01_schema_showcase.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)  | 02-08-2025 |
-| [US Drivers License](./notebooks/02_us_drivers_license.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/02_us_drivers_license.ipynb)  | 02-08-2025 |
+| [US Drivers License](./notebooks/02_us_drivers_license.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/02_case_study_drivers_license.ipynb)  | 02-08-2025 |
 | [Parsing Financial Presentations](https://colab.research.google.com/drive/15_iRDucKj2I33p3m5X3ULdXby_DHWgjS) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15_iRDucKj2I33p3m5X3ULdXby_DHWgjS)  | 02-04-2025 |
 
 
