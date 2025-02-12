@@ -37,6 +37,7 @@ Our collection of Colab notebooks demonstrates various use cases and integration
 | [TV News Analysis](./notebooks/03_case_study_tv_news.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/03_case_study_tv_news.ipynb)  | 02-15-2025 |
 
 
+
 ### 🔗 Quick Links
 ---
 
