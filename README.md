@@ -36,6 +36,7 @@ Our collection of Colab notebooks demonstrates various use cases and integration
 | [US Drivers License](./notebooks/02_case_study_drivers_license.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/02_case_study_drivers_license.ipynb)  | 02-08-2025 |
 | [Parsing Financial Presentations](https://colab.research.google.com/drive/15_iRDucKj2I33p3m5X3ULdXby_DHWgjS) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15_iRDucKj2I33p3m5X3ULdXby_DHWgjS)  | 02-04-2025 |
 | [TV News Analysis](./notebooks/03_case_study_tv_news.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/03_case_study_tv_news.ipynb)  | 02-15-2025 |
+| [Fashion Product Analysis](./notebooks/05_case_study_image_catalogue.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/05_case_study_image_catalogue.ipynb)  | 02-20-2025 |
 
 
 
