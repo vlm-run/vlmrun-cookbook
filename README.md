@@ -39,6 +39,7 @@ Our collection of Colab notebooks demonstrates various use cases and integration
 | [TV News Analysis](./notebooks/03_case_study_tv_news.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/03_case_study_tv_news.ipynb)  | 02-15-2025 |
 | [Fashion Product Catalog](./notebooks/05_case_study_image_catalogue.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/05_case_study_image_catalogue.ipynb)  | 02-20-2025 |
 | [Fashion Images Hybrid Search](./notebooks/06_fashion_images_hybrid_search.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/06_fashion_images_hybrid_search.ipynb)  | 02-21-2025 |
+| [Generate Custom Schema](./notebooks/07_generate_schema.ipynb) | <kbd>feature</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/07_generate_schema.ipynb)  | 03-13-2025 |
 
 
 
