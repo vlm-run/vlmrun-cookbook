@@ -42,7 +42,8 @@ Our collection of Colab notebooks demonstrates various use cases and integration
 | [Generate Custom Schema](./notebooks/07_generate_schema.ipynb) | <kbd>feature</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/07_generate_schema.ipynb)  | 03-13-2025 |
 | [Document Markdown Extraction](./notebooks/08_document_markdown.ipynb) | <kbd>feature</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/08_document_markdown.ipynb)  | 06-02-2025 |
 | [Video RAG](./notebooks/11_video_rag.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/11_video_rag.ipynb)  | 07-14-2025 |
-| [Orion Image Understanding](./notebooks/12_orion_image_understanding.ipynb) | <kbd>feature</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/12_orion_image_understanding.ipynb)  | 12-01-2025 |
+| [Orion Image Understanding](./notebooks/12_orion_image_understanding.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/12_orion_image_understanding.ipynb)  | 12-01-2025 |
+| [Orion Video Understanding](./notebooks/12_orion_video_understanding.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/12_orion_video_understanding.ipynb)  | 12-02-2025 |
 
 
 ### 🔗 Quick Links
