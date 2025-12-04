@@ -44,6 +44,7 @@ Our collection of Colab notebooks demonstrates various use cases and integration
 | [Video RAG](./notebooks/11_video_rag.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/11_video_rag.ipynb)  | 07-14-2025 |
 | [Orion Image Understanding](./notebooks/12_orion_image_understanding.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/12_orion_image_understanding.ipynb)  | 12-01-2025 |
 | [Orion Video Understanding](./notebooks/12_orion_video_understanding.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/12_orion_video_understanding.ipynb)  | 12-02-2025 |
+| [Orion 3D Reconstruction](./notebooks/13_orion_3d_reconstruction.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/13_orion_3d_reconstruction.ipynb)  | 12-04-2025 |
 
 
 ### 🔗 Quick Links
