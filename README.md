@@ -28,9 +28,9 @@ Welcome to **[VLM Run](https://vlm.run) Cookbook**, a comprehensive collection o
 ---
 
 Our collection of Colab notebooks demonstrates various use cases and integrations:
+
 | Name | Type | Colab | Last Updated |
 |:---|:---|:---:|:---:|
-
 | [API Quickstart](./notebooks/00_quickstart.ipynb) | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/00_quickstart.ipynb) | 02-08-2025 |
 | [Schema Showcase](./notebooks/01_schema_showcase.ipynb) | <kbd>feature</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb) | 02-08-2025 |
 | [Visual Grounding](./notebooks/04_visual_grounding.ipynb) | <kbd>feature</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/04_visual_grounding.ipynb) | 02-18-2025 |
