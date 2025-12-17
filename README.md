@@ -30,6 +30,7 @@ Welcome to **[VLM Run](https://vlm.run) Cookbook**, a comprehensive collection o
 Our collection of Colab notebooks demonstrates various use cases and integrations:
 | Name | Type | Colab | Last Updated |
 |:---|:---|:---:|:---:|
+
 | [API Quickstart](./notebooks/00_quickstart.ipynb) | | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/00_quickstart.ipynb) | 02-08-2025 |
 | [Schema Showcase](./notebooks/01_schema_showcase.ipynb) | <kbd>feature</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb) | 02-08-2025 |
 | [Visual Grounding](./notebooks/04_visual_grounding.ipynb) | <kbd>feature</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/04_visual_grounding.ipynb) | 02-18-2025 |
@@ -45,6 +46,7 @@ Our collection of Colab notebooks demonstrates various use cases and integration
 | [Orion Image Understanding](./notebooks/12_orion_image_understanding.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/12_orion_image_understanding.ipynb) | 12-01-2025 |
 | [Orion Video Understanding](./notebooks/12_orion_video_understanding.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/12_orion_video_understanding.ipynb) | 12-02-2025 |
 | [Orion 3D Reconstruction](./notebooks/13_orion_3d_reconstruction.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/13_orion_3d_reconstruction.ipynb) | 12-04-2025 |
+| [Orion Document Understanding](./notebooks/14_orion_document_understanding.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/14_orion_document_understanding.ipynb)  | 12-12-2025 |
 
 ### 🔗 Quick Links
 
