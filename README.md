@@ -47,6 +47,7 @@ Our collection of Colab notebooks demonstrates various use cases and integration
 | [Orion Video Understanding](./notebooks/12_orion_video_understanding.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/12_orion_video_understanding.ipynb) | 12-02-2025 |
 | [Orion 3D Reconstruction](./notebooks/13_orion_3d_reconstruction.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/13_orion_3d_reconstruction.ipynb) | 12-04-2025 |
 | [Orion Document Understanding](./notebooks/14_orion_document_understanding.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/14_orion_document_understanding.ipynb)  | 12-12-2025 |
+| [Handwritten Medical Forms to JSON](./notebooks/15_extracting_handwritten_medical_forms_to_json.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/15_extracting_handwritten_medical_forms_to_json.ipynb) | 04-10-2026 |
 
 ### 🔗 Quick Links
 
