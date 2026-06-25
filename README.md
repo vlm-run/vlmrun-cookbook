@@ -49,6 +49,7 @@ Our collection of Colab notebooks demonstrates various use cases and integration
 | [Orion Document Understanding](./notebooks/14_orion_document_understanding.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/14_orion_document_understanding.ipynb)  | 12-12-2025 |
 | [Handwritten Medical Forms to JSON](./notebooks/15_extracting_handwritten_medical_forms_to_json.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/15_extracting_handwritten_medical_forms_to_json.ipynb) | 04-10-2026 |
 | [Healthcare Multi-Document Workflow](./notebooks/16_healthcare_multi_document_workflow.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/16_healthcare_multi_document_workflow.ipynb) | 06-24-2026 |
+| [Orion-2 Migration: Requests to Executions](./notebooks/17_orion2_migration_requests_to_executions.ipynb) | <kbd>tutorial</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/17_orion2_migration_requests_to_executions.ipynb) | 06-25-2026 |
 
 ### 🔗 Quick Links
 
