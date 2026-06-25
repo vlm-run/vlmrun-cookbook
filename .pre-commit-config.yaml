@@ -32,4 +32,4 @@ repos:
       exclude: ^examples
     - id: check-added-large-files
       args: ['--maxkb=100']
-      exclude: ^vlm_tools/tests|^examples|^assets
+      exclude: ^vlm_tools/tests|^examples|^assets|^notebooks
