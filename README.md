@@ -50,6 +50,7 @@ Our collection of Colab notebooks demonstrates various use cases and integration
 | [Healthcare Multi-Document Workflow](./notebooks/16_healthcare_multi_document_workflow.ipynb) | <kbd>application</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/16_healthcare_multi_document_workflow.ipynb) | 06-24-2026 |
 | [Orion 2 Video Understanding](./notebooks/17_orion2_video_understanding.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/17_orion2_video_understanding.ipynb) | 07-07-2026 |
 | [Orion 2 Migration Tutorial](./notebooks/18_orion2_migration_requests_to_executions.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/18_orion2_migration_requests_to_executions.ipynb) | 07-20-2026 |
+| [Orion 2 Multi-Schema Document Extraction](./notebooks/19_orion2_multi_schema_extraction.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/19_orion2_multi_schema_extraction.ipynb) | 07-20-2026 |
 
 ### 🔗 Quick Links
 
