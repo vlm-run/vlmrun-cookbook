@@ -1,0 +1,6 @@
+# Demos here are single-file uv scripts: `uvx ruff format && uvx ruff check --fix` before committing.
+line-length = 120
+
+[lint]
+select = ["E", "F", "W", "I", "UP", "B", "SIM", "RUF"]
+ignore = ["RUF001", "RUF012"]  # × and · are deliberate on the reels; class-level game specs are constants

@@ -52,6 +52,17 @@ Our collection of Colab notebooks demonstrates various use cases and integration
 | [Orion 2 Migration Tutorial](./notebooks/18_orion2_migration_requests_to_executions.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/18_orion2_migration_requests_to_executions.ipynb) | 07-20-2026 |
 | [Orion 2 Multi-Schema Extraction](./notebooks/19_orion2_multi_schema_extraction.ipynb) | <kbd>showcase</kbd> | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vlm-run/vlmrun-cookbook/blob/main/notebooks/19_orion2_multi_schema_extraction.ipynb) | 07-22-2026 |
 
+### 🎮 Demos
+
+---
+
+Single-file [uv](https://docs.astral.sh/uv/) scripts: `uv run <script>`, nothing to install.
+
+| Name | Type | Run | Last Updated |
+|:---|:---|:---|:---:|
+| [System One: snake & 2048 from pixels](./demos/systemone/) | <kbd>demo</kbd> | `uv run demos/systemone/pixelgames.py snake --ws` | 10-20-2026 |
+| [System One: document classification](./demos/systemone/) | <kbd>demo</kbd> | `uv run demos/systemone/classify_docs.py --n-per-category 3` | 10-20-2026 |
+
 ### 🔗 Quick Links
 
 ---
